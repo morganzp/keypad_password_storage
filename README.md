@@ -24,4 +24,9 @@ password was incorrect. When the servo motor is called,  the green LED
 indicator stays on and the servo rotates a degree at a time until it
 reaches 180 degrees. It stays in this unlocked state for 5 seconds and
 then the red LED indicator glows and the servo locks again, going from
-180 degrees to 90 degrees.
+180 degrees to 90 degrees. Below are the references in which i consulted
+to find information on the keyPad and Servo libraries. 
+
+REFERENCES:
+- Stanley, Mark, and Alexander Brevig. "KeyPad Library." Arduino Playground. N.p., n.d. Web. 5 Mar. 2016.
+- "The Software Servo Library." Arduino Playground. N.p., n.d. Web. 4 Mar. 2016. 
